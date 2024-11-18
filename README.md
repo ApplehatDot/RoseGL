@@ -1,7 +1,7 @@
 # RoseGL
 RoseGL + GWM - Private MEGC Project that draws a Rose in OpenGL, with addition of GWM 
 
-**The source code is a nightmare to look at.*
+*The source code is a nightmare to look at.*
 <div align=left>
   <image src="Photos/Example.png" width=420>
   <image src="Photos/GWMDialog.png" width=390>
